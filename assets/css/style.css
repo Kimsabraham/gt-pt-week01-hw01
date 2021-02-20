@@ -86,6 +86,7 @@ p {
     background-color: #2589bd;
 }
 
+/* this is used for everything that is aside the 2 blocks underneath were repeats */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,7 +102,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* this is the styling for everything in the main container I also condensed the code because it was DRY */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
