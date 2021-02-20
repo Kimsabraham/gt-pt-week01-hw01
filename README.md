@@ -2,7 +2,14 @@
 
 ## Description
 
-In this project we were given the opportuniity to refactor a website for the marketing group: Horiseon
+In this project we were given the opportuniity to refactor a website for the marketing group: Horiseon,this project gave us a great oppurtunity to show us that even if you know a little bit of code you can always help improve. 
+
+URL: https://kimsabraham.github.io/gt-pt-week01-hw01/
+
+Github Repo: https://github.com/Kimsabraham/gt-pt-week01-hw01
+
+screenshot of final product: 
+![]()
 
 ## User Story
 
